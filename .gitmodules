@@ -1,0 +1,3 @@
+[submodule "remarkable-bujo"]
+	path = remarkable-bujo
+	url = git@github.com:vonneudeck/remarkable-bujo.git
